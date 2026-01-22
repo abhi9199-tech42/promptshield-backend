@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\entityruler.py
+# hypothesis_version: 6.148.8
+
+['.jsonl', 'EntityRuler', 'ID', '\\[W036', 'cfg', 'ent_id_sep', 'entity_ruler', 'id', 'ignore', 'label', 'make_entity_ruler', 'overwrite', 'pattern', 'patterns', 'phrase_matcher_attr', '||']

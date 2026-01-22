@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\srsly\ruamel_yaml\comments.py
+# hypothesis_version: 6.148.8
+
+['#', '# ', ')', ',\n  end=', '.', 'CommentedKeySeq', 'CommentedMap', 'CommentedOrderedMap', 'CommentedSeq', 'CommentedSet', '_end', '_flow_style', '_items', '_lst', '_mapping', '_od', '_ok', '_ref', '_start', '_yaml_comment', '_yaml_format', '_yaml_line_col', '_yaml_merge', '_yaml_tag', 'ca', 'comment', 'comment_attrib', 'merge_attrib', 'odict', 'ordereddict', 'ordereddict(', 'set({0!r})', 'value', '{}\n']

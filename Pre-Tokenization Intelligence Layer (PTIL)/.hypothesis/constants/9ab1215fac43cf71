@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\_edit_tree_internals\schemas.py
+# hypothesis_version: 6.148.8
+
+[' -> ', 'Original substring', 'Prefix length', 'Prefix tree', 'Suffix length', 'Suffix tree', 'forbid', 'loc', 'msg']

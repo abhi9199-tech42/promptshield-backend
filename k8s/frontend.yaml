@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: promptshield-frontend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: promptshield-frontend
+  template:
+    metadata:
+      labels:
+        app: promptshield-frontend
+    spec:
+      containers:
+      - name: frontend
+        image: promptshield-frontend:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 3000
+        env:
+        - name: NEXT_PUBLIC_API_URL
+          value: "http://localhost:8003"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: promptshield-frontend
+spec:
+  type: LoadBalancer
+  selector:
+    app: promptshield-frontend
+  ports:
+  - protocol: TCP
+    port: 3000
+    targetPort: 3000

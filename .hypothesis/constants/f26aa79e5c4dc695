@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\lang\zh\__init__.py
+# hypothesis_version: 6.148.8
+
+[', ', 'Chinese', 'cfg', 'char', 'default', 'direction', 'features.msgpack', 'features_b', 'has_case', 'has_letters', 'jieba', 'ltr', 'pkuseg', 'pkuseg_features', 'pkuseg_model', 'pkuseg_processors', 'pkuseg_weights', 'processors_data', 'rb', 'segmenter', 'wb', 'weights.npz', 'weights_b', 'zh', '作为']

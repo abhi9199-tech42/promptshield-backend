@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\backends\_custom_kernels.py
+# hypothesis_version: 6.148.8
+
+[0.0, 1e-10, 1.0, 6.0, 17.0, 128, '--std=c++11', '_compile_callback', '_custom_kernels.cu', '_kernel', '_murmur3.cu', 'a & b', 'backprop_dish<float>', 'backprop_gelu<float>', 'backprop_mish<float>', 'bool r', 'cupy.RawKernel', 'dish<double>', 'dish<float>', 'float32', 'float64', 'gather_add<double>', 'gather_add<float>', 'gelu<double>', 'gelu<float>', 'hash_data', 'i', 'int32', 'int64', 'maxout<double>', 'maxout<float>', 'mish<double>', 'mish<float>', 'name', 'pad<double>', 'pad<float>', 'pad<int>', 'pad<long long>', 'r = a', 'reduce_max<double>', 'reduce_max<float>', 'reduce_sum<double>', 'reduce_sum<float>', 'seq2col<double>', 'seq2col<float>', 'swish<double>', 'swish<float>', 'true', 'uint32', 'utf8', 'within_range']

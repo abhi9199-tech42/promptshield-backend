@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\OneDrive\PromptShield\Pre-Tokenization Intelligence Layer (PTIL)\ptil\roles_binder.py
+# hypothesis_version: 6.148.8
+
+['ADP', 'AUX', 'NOUN', 'PRON', 'PROPN', 'ROOT', 'VERB', 'after', 'at', 'before', 'beside', 'by', 'csubj', 'dobj', 'during', 'en_core_web_sm', 'from', 'in', 'into', 'iobj', 'near', 'nsubj', 'off', 'on', 'out', 'over', 'pobj', 'to', 'toward', 'towards', 'under', 'using', 'while', 'with']

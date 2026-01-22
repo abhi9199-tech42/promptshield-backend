@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\weasel\cli\dvc.py
+# hypothesis_version: 6.148.8
+
+['# ', '--always-changed', '--force', '--no-exec', '--quiet', '--verbose', '--version', '-F', '-O', '-V', '-d', '-m', '-n', '-o', '-q', '-w', '.dvc', 'Print less info', 'Print more info', 'commands', 'deps', 'dvc', 'dvc ', 'dvc.yaml', 'name', 'no_skip', 'outputs', 'outputs_no_cache', 'project', 'python', 'r', 'r+', 'run', 'utf8', 'workflows']

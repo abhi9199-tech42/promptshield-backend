@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\training\converters\conll_ner_to_docs.py
+# hypothesis_version: 6.148.8
+
+['-', '-DOCSTART- -X- O O', 'listening_components', 'model.tok2vec', 'parser', 'sentencizer', 'xx']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\shims\__init__.py
+# hypothesis_version: 6.148.8
+
+['MXNetShim', 'PyTorchGradScaler', 'PyTorchShim', 'Shim', 'TensorFlowShim', 'TorchScriptShim', 'keras_model_fns']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\torch\mps\profiler.py
+# hypothesis_version: 6.148.8
+
+['interval', 'is_capturing_metal', 'metal_capture', 'profile', 'start', 'stop']

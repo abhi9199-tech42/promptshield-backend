@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\lang\ko\__init__.py
+# hypothesis_version: 6.148.8
+
+['*', '+', ',', '-F%f[0],%f[7]', '/', 'Korean', 'direction', 'full_tags', 'has_case', 'has_letters', 'ko', 'lemma', 'ltr', 'surface', 'tag']

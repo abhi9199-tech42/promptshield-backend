@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\ml\models\entity_linker.py
+# hypothesis_version: 6.148.8
+
+[0.0, '&', '>>', 'include_span_maker', 'nO', 'n_sents', 'output_layer', 'span_maker', 'tok2vec']

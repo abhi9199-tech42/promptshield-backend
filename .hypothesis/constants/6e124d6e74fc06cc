@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\lang\tokenizer_exceptions.py
+# hypothesis_version: 6.148.8
+
+["'", "''", '(?u)', '.', '<space>', 'C++', '\\")', '\\n', '\\t', 'a.', 'b.', 'c.', 'cfkCFK', 'd.', 'e.', 'f.', 'g.', 'h.', 'i.', 'j.', 'k.', 'l.', 'm.', 'n.', 'o.', 'p.', 'q.', 'r.', 's.', 't.', 'u.', 'v.', 'w.', 'x.', 'y.', 'z.', '°', 'ä.', 'ö.', 'ü.', '—']

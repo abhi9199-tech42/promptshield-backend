@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\torch\distributions\constraint_registry.py
+# hypothesis_version: 6.148.8
+
+['ConstraintRegistry', 'biject_to', 'transform_to']

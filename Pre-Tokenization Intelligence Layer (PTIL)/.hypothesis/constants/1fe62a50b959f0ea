@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\span_ruler.py
+# hypothesis_version: 6.148.8
+
+['ID', 'SpanRuler', '\\[W036', 'allow_overlap', 'attr', 'getter', 'has_annotation', 'id', 'ignore', 'label', 'labeled', 'make_entity_ruler', 'make_span_ruler', 'pattern', 'patterns', 'ruler', 'span_ruler']

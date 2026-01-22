@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\layers\multisoftmax.py
+# hypothesis_version: 6.148.8
+
+['MultiSoftmax.v1', 'W', 'b', 'multisoftmax', 'nI', 'nO', 'nOs']

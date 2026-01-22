@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\OneDrive\Pre-Tokenization Intelligence Layer (PTIL)\ptil\cross_lingual_validator.py
+# hypothesis_version: 6.148.8
+
+[0.0, 0.8, 'average', 'common_roots', 'comparison', 'consistency_rate', 'consistency_score', 'consistent_pairs', 'csc_count_match', 'cscs1', 'cscs2', 'detailed_results', 'details', 'error', 'inconsistent_pairs', 'index', 'is_consistent', 'lang1', 'lang2', 'languages_tested', 'meta_match', 'meta_matches', 'normalized', 'operator_consistency', 'operator_matches', 'operators_match', 'pair_index', 'rates', 'role_consistency', 'role_matches', 'roles_match', 'root_consistency', 'root_match', 'root_matches', 'roots_by_language', 'text1', 'text2', 'total_comparisons', 'total_pairs']

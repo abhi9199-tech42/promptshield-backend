@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\lang\ko\tag_map.py
+# hypothesis_version: 6.148.8
+
+['EC', 'EF', 'EP', 'ETM', 'ETN', 'IC', 'JC', 'JKB', 'JKC', 'JKG', 'JKO', 'JKQ', 'JKS', 'JKV', 'JX', 'MAG', 'MAJ', 'MM', 'NNB', 'NNBC', 'NNG', 'NNP', 'NP', 'NR', 'SC', 'SE', 'SF', 'SH', 'SL', 'SN', 'SSC', 'SSO', 'SY', 'VA', 'VCN', 'VCP', 'VV', 'VX', 'XPN', 'XR', 'XSA', 'XSN', 'XSV']

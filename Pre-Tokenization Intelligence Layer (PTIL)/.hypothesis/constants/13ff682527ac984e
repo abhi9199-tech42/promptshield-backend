@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\backends\cupy_ops.py
+# hypothesis_version: 6.148.8
+
+[0.0, 1e-12, 1.0, 6.0, 17.0, 20.0, 10000, 'C_CONTIGUOUS', 'CupyOps', 'T param, T m, T v', 'adam', 'cupy', 'float32', 'float64', 'gpu', 'int32', 'int64']

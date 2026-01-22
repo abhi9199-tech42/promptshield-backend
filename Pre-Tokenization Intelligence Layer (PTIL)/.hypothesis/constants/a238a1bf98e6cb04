@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\profile.py
+# hypothesis_version: 6.148.8
+
+[10000, '-', '--n-texts', '-n', 'Profile stats', 'Profile.prof', 'profile', 'text', 'time', 'utf8']

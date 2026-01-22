@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\lemmatizer.py
+# hypothesis_version: 6.148.8
+
+['Lemmatizer', 'eol', 'lemma', 'lemma_exc', 'lemma_index', 'lemma_lookup', 'lemma_rules', 'lemmatizer', 'lookup', 'lookups', 'make_lemmatizer', 'propn', 'rule', 'space', 'vocab']

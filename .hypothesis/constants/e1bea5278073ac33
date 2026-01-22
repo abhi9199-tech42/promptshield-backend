@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\layers\pytorchwrapper.py
+# hypothesis_version: 6.148.8
+
+['PyTorchRNNWrapper.v1', 'PyTorchWrapper.v1', 'PyTorchWrapper.v2', 'PyTorchWrapper.v3', 'convert_inputs', 'convert_outputs', 'grad_tensors', 'nI', 'nO', 'pytorch', 'torch.device', 'torch.nn.Module']

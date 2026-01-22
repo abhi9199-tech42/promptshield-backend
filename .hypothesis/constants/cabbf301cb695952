@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\schedules.py
+# hypothesis_version: 6.148.8
+
+[0.0, 0.1, 1.0, 'compounding', 'compounding.v1', 'constant', 'constant.v1', 'constant_then', 'constant_then.v1', 'cyclic_triangular', 'cyclic_triangular.v1', 'decaying', 'decaying.v1', 'slanted_triangular', 'warmup_linear', 'warmup_linear.v1']

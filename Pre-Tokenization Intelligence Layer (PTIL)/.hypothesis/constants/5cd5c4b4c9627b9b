@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\tokens\_serialize.py
+# hypothesis_version: 6.148.8
+
+['0.1', 'C', 'DocBin', 'attrs', 'cats', 'flags', 'has_unknown_spaces', 'int32', 'lengths', 'rb', 'spaces', 'span_groups', 'store_user_data', 'strings', 'tokens', 'uint64', 'user_data', 'version', 'wb']

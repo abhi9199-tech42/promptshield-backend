@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\ml\models\textcat.py
+# hypothesis_version: 6.148.8
+
+[0.0, -5000, 262144, '**', '>>', 'W', 'attention_layer', 'b', 'key_transform', 'maxout_layer', 'multi_label', 'nI', 'nO', 'nonlinear_layer', 'norm_layer', 'output_layer', 'resize_output', 'tok2vec', '|']

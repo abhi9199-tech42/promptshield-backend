@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\functions.py
+# hypothesis_version: 6.148.8
+
+['+', '.', 'DEP', 'SUBTOK', 'attrs', 'cfg', 'dep', 'doc.ents', 'ent_type', 'make_doc_cleaner', 'make_token_splitter', 'merge_entities', 'merge_noun_chunks', 'merge_subtokens', 'min_length', 'op', 'silent', 'split_length', 'subtok', 'tag', 'token.dep', 'token.ent_iob', 'token.ent_type', 'token.pos', 'token.tag']

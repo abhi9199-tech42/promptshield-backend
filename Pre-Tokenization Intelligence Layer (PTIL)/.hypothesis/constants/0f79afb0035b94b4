@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\util.py
+# hypothesis_version: 6.148.8
+
+[0.0, ' -> ', 'ArrayInfo', 'DATA_VALIDATION', 'Darwin', 'DataValidationError', 'GPU:', 'Ops', 'PartialT', '__dlpack__', 'copy_array', 'cpu', 'cupy.cuda.Device', 'fix_random_seed', 'float32', 'get_array_module', 'get_width', 'has_cupy', 'has_torch', 'is_cupy_array', 'is_mps', 'is_numpy_array', 'loc', 'make_tempfile', 'mps', 'msg', 'mx.nd.NDArray', 'ndim', 'prefer_gpu', 'r', 'require_gpu', 'set_active_gpu', 'shape', 'tensorflow2xp', 'tf.Tensor', 'toDlpack', 'to_categorical', 'torch.Tensor', 'torch.device', 'torch2xp', 'use_nvtx_range', 'xp2tensorflow', 'xp2torch']

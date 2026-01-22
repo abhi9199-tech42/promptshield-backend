@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\layers\softmax.py
+# hypothesis_version: 6.148.8
+
+[0.0, 1.0, 'Softmax.v1', 'Softmax.v2', 'W', 'b', 'nI', 'nO', 'softmax', 'softmax_normalize', 'softmax_temperature']

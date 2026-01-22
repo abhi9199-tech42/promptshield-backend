@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\scorer.py
+# hypothesis_version: 6.148.8
+
+[0.0, 1e-100, 1e-08, 1e-05, 0.5, 1.0, 2.0, 'ENT_IOB', 'Language', 'ents_f', 'ents_p', 'ents_per_type', 'ents_r', 'f', 'head', 'macro AUC', 'macro F', 'mergesort', 'micro F', 'morphologizer', 'ner', 'p', 'parser', 'r', 'score', 'senter', 'tagger', 'textcat', 'token_acc', 'token_f', 'token_p', 'token_r', 'tokenizer', 'xx']

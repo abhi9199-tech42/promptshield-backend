@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\types.py
+# hypothesis_version: 6.148.8
+
+[', ', '/', 'ArgsKwargs', 'Array1d', 'Array1dT', 'Array2d', 'Array3d', 'Array4d', 'ArrayT', 'ArrayXd', 'C', 'Floats1d', 'Floats2d', 'Floats3d', 'Floats4d', 'FloatsXdT', 'Ints1d', 'Ints2d', 'Ints3d', 'Ints4d', 'Padded', 'Pairs', 'Pairs[_P]', 'Ragged', 'SelfT', 'XY_XY_OutT', 'XY_YZ_OutT', '_Array1d', '_Array4d', '_DIn', '_Floats', '_Ints', '_P', '__iter__', '__next__', 'cpu', 'cupy', 'f', 'float16', 'float32', 'float64', 'gpu', 'i', 'int32', 'int64', 'not a valid iterator', 'numpy', 'tpu', 'uint32', 'uint64']

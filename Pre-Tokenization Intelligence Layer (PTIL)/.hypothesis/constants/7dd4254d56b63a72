@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\OneDrive\Pre-Tokenization Intelligence Layer (PTIL)\ptil\encoder.py
+# hypothesis_version: 6.148.8
+
+['ADJ', 'NOUN', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ', 'VERB', 'csc_generator', 'csc_serializer', 'en_core_web_sm', 'index', 'linguistic_analyzer', 'meta_detector', 'ops_extractor', 'pos', 'relations', 'roles_binder', 'root_mapper', 'token']

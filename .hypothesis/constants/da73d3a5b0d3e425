@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\srsly\ruamel_yaml\nodes.py
+# hypothesis_version: 6.148.8
+
+['    {}comment: {})\n', '%s(tag=%r, value=%s)', 'Node value type? {}\n', 'anchor', 'comment', 'end_mark', 'flow_style', 'mapping', 'merge', 'scalar', 'sequence', 'start_mark', 'style', 'tag', 'value', '{}{}(tag={!r})\n']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\lang\lex_attrs.py
+# hypothesis_version: 6.148.8
+
+[100, 128, '"', "'", "''", '(', ')', '+', ',', '-', '.', '/', ':', '<', '>', '@', 'LONG', 'P', 'Sc', 'X', '[', ']', '`', '``', 'd', 'http://', 'https://', 'www.', 'x', '{', '|', '}', '~', '«', '±', '»', '‘', '’', '‚', '‛', '“', '”', '„', '‟', '‹', '›', '❮', '❯']

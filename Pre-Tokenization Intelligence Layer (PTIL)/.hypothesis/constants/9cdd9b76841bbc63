@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\ml\_precomputable_affine.py
+# hypothesis_version: 6.148.8
+
+[0.0, 0.01, 0.1, 1.0, 1000, 5000, 'W', 'b', 'dropout_rate', 'f', 'i', 'nF', 'nI', 'nO', 'nP', 'pad', 'precomputable_affine']

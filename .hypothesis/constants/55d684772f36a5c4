@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\weasel\schemas.py
+# hypothesis_version: 6.148.8
+
+[' -> ', '([a-fA-F\\d]{32})', 'Branch to clone from', 'Command description', 'Data assets', 'Description of asset', 'Git repo information', 'MD5 hash of file', 'Name of command', 'Project title', 'URL of asset', 'check_requirements', 'forbid', 'loc', 'master', 'msg', 'spacy_version']

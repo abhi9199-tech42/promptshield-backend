@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: promptshield-backend
+    runtime: python
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: ./backend/entrypoint.sh
+    envVars:
+      - key: DATABASE_URL
+        value: sqlite:////tmp/promptshield.db
+      - key: SECRET_KEY
+        generateValue: true
+      - key: PYTHON_VERSION
+        value: 3.11.0

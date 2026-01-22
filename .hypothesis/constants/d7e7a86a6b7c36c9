@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\tok2vec.py
+# hypothesis_version: 6.148.8
+
+[0.0, '*', 'Tok2Vec.initialize', 'Tok2Vec.update', 'Tok2VecListener', 'make_tok2vec', 'model', 'nO', 'tok2vec', 'tok2vec-listener']

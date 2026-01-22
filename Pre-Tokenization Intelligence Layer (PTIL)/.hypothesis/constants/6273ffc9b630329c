@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\attributeruler.py
+# hypothesis_version: 6.148.8
+
+['AttributeRuler', 'MORPH', 'ORTH', 'TAG', '_', 'attribute_ruler', 'attrs', 'index', 'lemma', 'make_attribute_ruler', 'morph', 'patterns', 'pos', 'tag', 'vocab']

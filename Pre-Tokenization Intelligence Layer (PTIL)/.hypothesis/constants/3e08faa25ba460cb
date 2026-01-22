@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\debug_config.py
+# hypothesis_version: 6.148.8
+
+['--code', '--code-path', '--show-functions', '--show-variables', '-F', '-V', '-c', '.', ':', '@', 'Config is valid', 'Config validation', 'File', 'Module', 'Name', 'Path to config file', 'Registry', 'Value', 'Variable', 'allow_extra_args', 'config', 'dev_corpus', 'initialize', 'module', 'name', 'path', 'registry', 'train_corpus', 'training']

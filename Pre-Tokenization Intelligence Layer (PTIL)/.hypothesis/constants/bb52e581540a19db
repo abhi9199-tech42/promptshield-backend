@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\OneDrive\Pre-Tokenization Intelligence Layer (PTIL)\ptil\__init__.py
+# hypothesis_version: 6.148.8
+
+['0.1.0', 'CSC', 'Entity', 'LinguisticAnalysis', 'LinguisticAnalyzer', 'META', 'METADetector', 'OPSExtractor', 'Operator', 'ROLESBinder', 'ROOT', 'ROOTMapper', 'Role']

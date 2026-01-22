@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\torch\_higher_order_ops\cond.py
+# hypothesis_version: 6.148.8
+
+['call_function', 'cond', 'device', 'dim', 'dtype', 'eager', 'is_conj', 'is_quantized', 'is_sparse', 'layout', 'mode', 'output', 'storage_offset', 'torch', 'true_graph']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\lang\en\__init__.py
+# hypothesis_version: 6.148.8
+
+[1.0, '@scorers', 'English', 'en', 'lemma_acc', 'lemmatizer', 'mode', 'model', 'overwrite', 'rule', 'scorer', 'token.lemma']

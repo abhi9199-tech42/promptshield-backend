@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\displacy\__init__.py
+# hypothesis_version: 6.148.8
+
+[5000, '#', '0.0.0.0', '200 OK', 'Content-type', 'DEP', '__call__', 'add_lemma', 'arcs', 'collapse_phrases', 'collapse_punct', 'dep', 'dir', 'direction', 'end', 'end_token', 'ent', 'ent_type', 'ents', 'fine_grained', 'kb_id', 'kb_url', 'kb_url_template', 'label', 'lang', 'left', 'lemma', 'ltr', 'parsed', 'right', 'sc', 'settings', 'span', 'spans', 'spans_key', 'start', 'start_token', 'tag', 'text', 'title', 'tokens', 'user_data', 'user_hooks', 'utf-8', 'words']

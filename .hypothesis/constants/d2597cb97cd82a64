@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\layers\clipped_linear.py
+# hypothesis_version: 6.148.8
+
+[-1.0, 0.0, 0.2, 0.5, 1.0, 6.0, 'ClippedLinear.v1', 'HardSigmoid.v1', 'HardTanh.v1', 'ReluK.v1', 'W', 'b', 'clipped_linear', 'max_val', 'min_val', 'nI', 'nO', 'offset', 'slope']

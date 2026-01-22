@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\find_threshold.py
+# hypothesis_version: 6.148.8
+
+['--code', '--gold-preproc', '--gpu-id', '--n_trials', '--verbose', '-G', '-V', '-VV', '-c', '-g', '-n', '.', 'GPU ID or -1 for CPU', 'Metric to optimize', 'Model name or path', 'Threshold', 'allow_extra_args', 'cats_macro_f', 'cats_micro_f', 'cfg', 'components', 'find-threshold', 'gold_preproc', 'n_trials', 'scorer', 'use_gpu']

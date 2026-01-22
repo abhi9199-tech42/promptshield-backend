@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\ml\staticvectors.py
+# hypothesis_version: 6.148.8
+
+['ORTH', 'W', 'attr', 'dropout_rate', 'get_batch', 'key_attr', 'nM', 'nO', 'static_vectors']

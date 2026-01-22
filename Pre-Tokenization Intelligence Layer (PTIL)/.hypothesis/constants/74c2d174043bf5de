@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\ml\callbacks.py
+# hypothesis_version: 6.148.8
+
+['Language', 'begin_update', 'finish_update', 'get_loss', 'initialize', 'is_trainable', 'pipe', 'predict', 'rehearse', 'set_annotations', 'update']

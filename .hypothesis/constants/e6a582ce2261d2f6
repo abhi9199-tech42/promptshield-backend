@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\debug_model.py
+# hypothesis_version: 6.148.8
+
+[0.2, ' - sample: ', '--attributes', '--dimensions', '--gpu-id', '--gradients', '--layers', '--parameters', '--print-step0', '--print-step1', '--print-step2', '--print-step3', '-ATTR', '-DIM', '-GRAD', '-P0', '-P1', '-P2', '-P3', '-PAR', '-g', '-l', 'GPU ID or -1 for CPU', 'Path to config file', 'Show attributes', 'Show dimensions', 'Show gradients', 'Show parameters', 'allow_extra_args', 'attributes', 'dimensions', 'en', 'gpu_allocator', 'gradients', 'layers', 'model', 'nO', 'output_layer', 'parameters', 'print_after_init', 'print_after_training', 'print_prediction', 'seed', 'tok2vec', 'tok2vec-listener', 'train_corpus', 'training', 'transformer', 'transformer-listener']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\OneDrive\Pre-Tokenization Intelligence Layer (PTIL)\ptil\linguistic_analyzer.py
+# hypothesis_version: 6.148.8
+
+['AUX', 'Tense=Past', 'Tense=Pres', 'VERB', 'VerbForm=Part', 'always', 'barely', 'be', 'being', 'completed', 'continuous', 'en_core_web_sm', 'frequently', 'future', 'go', 'going', 'gonna', 'habitual', 'had', 'hardly', 'has', 'have', 'ing', "n't", 'neg', 'neither', 'never', 'no', 'nobody', 'none', 'nor', 'not', 'nothing', 'nowhere', 'often', 'past', 'present', 'regularly', 'scarcely', 'shall', 'usually', 'will']

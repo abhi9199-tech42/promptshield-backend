@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\torch\ao\nn\intrinsic\quantized\modules\conv_add.py
+# hypothesis_version: 6.148.8
+
+['QuantizedConvAdd2d', 'zeros']

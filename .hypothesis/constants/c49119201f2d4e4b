@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\ml\tb_framework.py
+# hypothesis_version: 6.148.8
+
+[0.2, 'has_upper', 'lower', 'nI', 'nO', 'parser_model', 'resize_output', 'tok2vec', 'unseen_classes', 'upper']

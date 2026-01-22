@@ -1,0 +1,37 @@
+# AI Context Exclusions
+# Files listed here will not be indexed or sent to the AI model.
+# Use this to protect sensitive data and reduce token usage.
+
+# Secrets and Config
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+backend/config.py
+
+# Build and Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+dist/
+build/
+.next/
+
+# Logs and DBs
+*.log
+*.sqlite
+*.db
+
+# Tests and Coverage
+coverage/
+htmlcov/
+.pytest_cache/
+
+# Large/Binary Files
+*.svg
+*.png
+*.jpg
+*.pdf

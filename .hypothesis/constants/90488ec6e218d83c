@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\training\__init__.py
+# hypothesis_version: 6.148.8
+
+['Alignment', 'Corpus', 'Example', 'JsonlCorpus', 'PlainTextCorpus', 'biluo_tags_to_spans', 'biluo_to_iob', 'docs_to_json', 'dont_augment', 'iob_to_biluo', 'minibatch_by_words', 'read_json_file', 'remove_bilu_prefix', 'split_bilu_label', 'tags_to_entities', 'validate_examples']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\apply.py
+# hypothesis_version: 6.148.8
+
+['--batch-size', '--code', '--force', '--gpu-id', '--n-process', '--text-key', '-F', '-b', '-c', '-g', '-n', '-tk', '.jsonl', '.spacy', 'Batch size.', 'Model name or path', 'apply', 'r', 'text']

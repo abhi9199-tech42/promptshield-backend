@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\convert.py
+# hypothesis_version: 6.148.8
+
+[',', '-', '--base', '--concatenate', '--converter', '--file-type', '--lang', '--merge-subtokens', '--model', '--morphology', '--n-sents', '--ner-map', '--seg-sents', '-C', '-T', '-b', '-c', '-l', '-m', '-n', '-nm', '-s', '-t', 'Input file not found', 'NER map not found', '\\S+\\s+(O|[IB]-\\S+)$', '\\S+\\|(O|[IB]-\\S+)', 'auto', 'conll', 'conllu', 'conllubio', 'convert', 'iob', 'json', 'ner', 'r', 'spacy', 'utf-8', 'utf8', 'wb']

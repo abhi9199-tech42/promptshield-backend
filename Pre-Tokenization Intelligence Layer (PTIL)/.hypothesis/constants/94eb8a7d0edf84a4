@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\lang\ja\syntax_iterators.py
+# hypothesis_version: 6.148.8
+
+['NP', 'ROOT', 'appos', 'attr', 'conj', 'dative', 'ddoclike', 'doclike', 'nmod', 'noun_chunks', 'nsubj', 'nsubjpass', 'obl', 'pcomp', 'pdoclike']

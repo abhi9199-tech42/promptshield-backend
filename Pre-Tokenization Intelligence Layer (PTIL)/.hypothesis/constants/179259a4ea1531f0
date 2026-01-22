@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\OneDrive\Pre-Tokenization Intelligence Layer (PTIL)\ptil\tokenizer_compatibility.py
+# hypothesis_version: 6.148.8
+
+[0.0, 95.0, 100, '##', '-', '<', '<\\s*>|<\\s*=\\s*>', '=', '>', '@@|##|\\u0120', 'COMPATIBLE', 'Common Issues Found:', 'Contains empty tags', 'FAIL', 'INCOMPATIBLE', 'PASS', '[<>=|]', '[\\x00-\\x1f\\x7f-\\x9f]', '[^\\w\\s<>=|.-]', '[^\\x00-\\x7F]', '\\s{3,}', '^<[^>]*>$', '^[^\\w\\s]+$', 'bpe', 'byte_pair_conflicts', 'compatible', 'continuation_markers', 'control_chars', 'detailed_results', 'empty_tags', 'excessive_whitespace', 'malformed_brackets', 'overall_compatible', 'tokenizer_stats', 'total', 'total_texts', 'unigram', 'vocab_oov', 'wordpiece', '▁']

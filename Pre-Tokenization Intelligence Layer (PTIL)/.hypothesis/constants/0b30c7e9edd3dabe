@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\weasel\cli\run.py
+# hypothesis_version: 6.148.8
+
+[' -> ', '--dry', '--force', '--help', '-D', '-F', '-m', '. ', 'allow_extra_args', 'asset', 'assets', 'cmd', 'commands', 'deps', 'help', 'md5', 'name', 'no_skip', 'outputs', 'outputs_no_cache', 'outs', 'path', 'pip', 'pip3', 'python', 'python3', 'run', 'script', 'title', 'workflows']

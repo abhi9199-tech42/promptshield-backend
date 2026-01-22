@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\torch\jit\_check.py
+# hypothesis_version: 6.148.8
+
+['#', '# type:', 'Dict', 'List', 'Optional', 'annotate', 'dict', 'jit', 'list', 'self', 'torch']

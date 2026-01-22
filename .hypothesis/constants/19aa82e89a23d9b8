@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\OneDrive\PromptShield\Pre-Tokenization Intelligence Layer (PTIL)\ptil\efficiency_analyzer.py
+# hypothesis_version: 6.148.8
+
+[0.0, 60.0, 80.0, 100.0, 100, '-', '<', '=', '>', 'Detailed Results:', 'FAIL', 'PASS', 'Statistics:', '\\w+|[^\\w\\s]', 'avg_reduction_ratio', 'bpe', 'max', 'meeting_target', 'min', 'overall_valid', 'statistics', 'target_percentage', 'target_range', 'total_texts', 'ultra', 'unigram', 'wordpiece']

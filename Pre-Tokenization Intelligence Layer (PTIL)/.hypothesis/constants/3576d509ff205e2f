@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\lang\vi\lex_attrs.py
+# hypothesis_version: 6.148.8
+
+['+', ',', '-', '.', '/', 'ba', 'bảy', 'bẩy', 'bốn', 'chín', 'chục', 'hai', 'không', 'lăm', 'mười', 'mốt', 'một', 'nghìn', 'ngàn', 'năm', 'sáu', 'triệu', 'trăm', 'tám', 'tư', 'tỉ', 'tỷ', 'vạn', '~', '±']

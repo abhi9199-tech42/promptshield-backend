@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\srsly\ruamel_yaml\tokens.py
+# hypothesis_version: 6.148.8
+
+['%s=%r', ',', ', ', ', col: ', ', comment: ', ', line: ', '-', ':', '<alias>', '<anchor>', '<block end>', '<comment>', '<directive>', '<document end>', '<document start>', '<scalar>', '<stream end>', '<stream start>', '<tag>', '?', 'CommentToken({})', '[', ']', '_comment', '_mark', 'encoding', 'end_mark', 'name', 'plain', 'pre_done', 'start_mark', 'style', 'value', '{', '{!r}', '{}({})', '}']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\legacy\entity_linker.py
+# hypothesis_version: 6.148.8
+
+[0.0, 'ENT_KB_ID', 'Entity Linker', 'EntityLinker_v1', 'NIL', 'cfg', 'entity_linker', 'float32', 'get_loss', 'kb', 'model', 'overwrite', 'predict', 'rb', 'vocab']

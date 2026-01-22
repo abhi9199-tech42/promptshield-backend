@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\shims\tensorflow.py
+# hypothesis_version: 6.148.8
+
+['/CPU', '/GPU:{}', 'CPU', '_make_train_function', 'catalogue_name', 'cpu', 'eg_args', 'eg_shape', 'eg_x', 'eg_y', 'gpu', 'gradients must match', 'h5', 'keras', 'r', 'startswith', 'tensorflow-shim', 'tf.Tensor', 'thinc', 'w']

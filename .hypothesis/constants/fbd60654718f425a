@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\pretrain.py
+# hypothesis_version: 6.148.8
+
+['-', '--code', '--epoch-resume', '--gpu-id', '--resume-path', '--skip-last', '-L', '-c', '-er', '-g', '-r', 'GPU ID or -1 for CPU', 'Path to config file', 'allow_extra_args', 'config.cfg', 'model\\d+\\.bin', 'pretrain', 'pretraining']

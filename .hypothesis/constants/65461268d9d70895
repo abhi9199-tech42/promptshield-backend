@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\edit_tree_lemmatizer.py
+# hypothesis_version: 6.148.8
+
+[0.0, 1.0, 'LEMMA', 'cfg', 'float32', 'get', 'labels', 'model', 'orig', 'orth', 'rb', 'subst', 'trainable_lemmatizer', 'trees', 'vocab']

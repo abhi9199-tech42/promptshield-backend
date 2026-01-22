@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\ml\models\multi_task.py
+# hypothesis_version: 6.148.8
+
+[0.0, 0.15, 0.8, 0.9, 1.0, 256, 10000, "'cosine', 'L2'", 'Doc', 'Floats2d', 'L2', 'Vocab', '[MASK]', 'cosine', 'f', 'loss', 'nO', 'output_layer', 'tok2vec', 'wrapped']

@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: promptshield-backend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: promptshield-backend
+  template:
+    metadata:
+      labels:
+        app: promptshield-backend
+    spec:
+      containers:
+      - name: backend
+        image: promptshield-backend:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 8003
+        env:
+        - name: DATABASE_URL
+          value: "sqlite:///./promptshield.db"
+        volumeMounts:
+        - name: db-volume
+          mountPath: /app
+      volumes:
+      - name: db-volume
+        hostPath:
+          path: /run/desktop/mnt/host/c/Users/kriti/OneDrive/PromptShield
+          type: Directory
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: promptshield-backend
+spec:
+  selector:
+    app: promptshield-backend
+  ports:
+  - protocol: TCP
+    port: 8003
+    targetPort: 8003

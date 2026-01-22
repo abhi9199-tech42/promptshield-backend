@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\training\pretrain.py
+# hypothesis_version: 6.148.8
+
+[0.0, 10000, 1000000, '#', '# Words', '%.', '*', '.temp', 'Loss', 'Tok2VecListener', 'Total Loss', 'a', 'aligns', 'batcher', 'component', 'corpus', 'dropout', 'epoch', 'epoch_loss', 'f', 'gpu_allocator', 'init_tok2vec', 'initialize', 'layer', 'loc', 'log.jsonl', 'loss', 'max_epochs', 'model\\d+\\.bin', 'msg', 'n_save_epoch', 'n_save_every', 'nr_word', 'objective', 'optimizer', 'pretraining', 'r', 'rb', 'seed', 'tok2vec', 'training', 'w/s', 'wb', 'widths']

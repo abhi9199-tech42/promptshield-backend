@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\training\initialize.py
+# hypothesis_version: 6.148.8
+
+[100, ', ', '.npz', 'Added vectors: %s', 'Created vocabulary', 'Language', 'ORTH', 'Pipeline: %s', '[training] seed', 'bow', 'dev_corpus', 'eow', 'f', 'floret', 'frozen_components', 'gpu_allocator', 'gz', 'hash_count', 'hash_seed', 'init_tok2vec', 'initialize', 'listening_components', 'loc', 'lookups', 'max_epochs', 'maxn', 'minn', 'mode', 'msg', 'name', 'oov_prob', 'optimizer', 'orth', 'r', 'r:gz', 'rb', 'seed', 'settings', 'strings', 'train_corpus', 'training', 'training.dev_corpus', 'utf8', 'vectors', 'zip']

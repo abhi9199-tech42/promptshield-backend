@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\OneDrive\PromptShield\Pre-Tokenization Intelligence Layer (PTIL)\ptil\encoder.py
+# hypothesis_version: 6.148.8
+
+[1.0, 'ADJ', 'NOUN', 'PTILEncoder', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ', 'VERB', '[CSC] ', 'compact', 'csc_generator', 'csc_only', 'csc_serializer', 'en_core_web_sm', 'index', 'linguistic_analyzer', 'meta_detector', 'mixed', 'ops_extractor', 'pos', 'relations', 'roles_binder', 'root_mapper', 'standard', 'token', 'ultra', 'verbose']

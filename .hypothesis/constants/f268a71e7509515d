@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\train.py
+# hypothesis_version: 6.148.8
+
+['-', '--code', '--gpu-id', '--output', '--output-path', '--verbose', '-V', '-VV', '-c', '-g', '-o', 'GPU ID or -1 for CPU', 'Initialized pipeline', 'Path to config file', 'Training pipeline', 'allow_extra_args', 'train']

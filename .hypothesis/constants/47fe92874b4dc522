@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\OneDrive\PromptShield\Pre-Tokenization Intelligence Layer (PTIL)\ptil\csc_serializer.py
+# hypothesis_version: 6.148.8
+
+['<', '<([^=]+)=', '<OPS=', '<OPS=>', '<ROOT=', '>', 'CSC cannot be None', '[', '{', '|']

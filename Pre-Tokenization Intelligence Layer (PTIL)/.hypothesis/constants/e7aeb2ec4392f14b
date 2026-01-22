@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\init_config.py
+# hypothesis_version: 6.148.8
+
+[',', ', ', '-', '--code', '--code-path', '--diff', '--force', '--gpu', '--lang', '--optimize', '--pipeline', '--pretraining', '-D', '-F', '-G', '-c', '-l', '-o', '-p', '-pt', 'END CONFIG DIFF', 'Hardware', 'Language', 'Optimize for', 'Pipeline', 'START CONFIG DIFF', 'Saved config', 'Transformer', '\\n\\n\\n+', '__default__', 'accuracy', 'components', 'config', 'cpu', 'efficiency', 'en', 'fill-config', 'gpu', 'hardware', 'has_letters', 'lang', 'name', 'ner', 'nlp', 'optimize', 'parser', 'pipeline', 'r', 'tagger', 'templates', 'tok2vec', 'transformer', 'transformer_data', 'word_vectors']

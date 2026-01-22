@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\init_pipeline.py
+# hypothesis_version: 6.148.8
+
+['--attr', '--code', '--gpu-id', '--lexemes-jsonl', '--mode', '--name', '--prune', '--truncate', '--verbose', '-V', '-VV', '-a', '-c', '-g', '-j', '-m', '-n', '-p', '-t', 'GPU ID or -1 for CPU', 'ORTH', 'Path to config file', 'allow_extra_args', 'default', 'label_data', 'labels', 'nlp', 'orth', 'settings', 'vectors']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\torch\_higher_order_ops\executorch_call_delegate.py
+# hypothesis_version: 6.148.8
+
+['LoweredBackendModule', 'call_function']

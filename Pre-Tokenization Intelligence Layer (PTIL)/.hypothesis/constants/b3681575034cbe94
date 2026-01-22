@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\layers\mxnetwrapper.py
+# hypothesis_version: 6.148.8
+
+['MXNetWrapper.v1', 'convert_inputs', 'convert_outputs', 'head_grads', 'mxnet']

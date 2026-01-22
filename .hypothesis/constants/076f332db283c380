@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\training\augment.py
+# hypothesis_version: 6.148.8
+
+[0.0, '-', 'B', 'DEP', 'ENT_TYPE', 'HEAD', 'I', 'L', 'LEMMA', 'Language', 'MORPH', 'O', 'ORTH', 'POS', 'SENT_START', 'SPACE', 'SPACY', 'TAG', '_SP', 'dep', 'doc_annotation', 'entities', 'links', 'paired', 'single', 'tags', 'token_annotation', 'variants']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\backends\ops.py
+# hypothesis_version: 6.148.8
+
+[-20.0, -3.0, -2.5, -1.453152027, -1.0, -0.5, -0.284496736, 0.0, 1e-08, 0.0356774, 0.044715, 0.0535161, 0.2, 0.254829592, 0.3275911, 0.398942, 0.4, 0.5, 0.797885, 0.9999, 1.0, 1.061405429, 1.421413741, 1.5, 2.0, 2.5, 3.0, 4.0, 6.0, 10.0, 20.0, 10000, ', ', 'ArrayT', 'C_CONTIGUOUS', 'FloatsT', '__len__', 'base', 'cpu', 'dtype', 'f', 'float32', 'int32', 'numpy', 'uint64']

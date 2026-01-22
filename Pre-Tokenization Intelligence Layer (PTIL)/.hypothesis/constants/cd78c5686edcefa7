@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\__init__.py
+# hypothesis_version: 6.148.8
+
+['AttributeRuler', 'DependencyParser', 'EditTreeLemmatizer', 'EntityLinker', 'EntityRecognizer', 'EntityRuler', 'Lemmatizer', 'Morphologizer', 'Pipe', 'SentenceRecognizer', 'Sentencizer', 'SpanCategorizer', 'SpanFinder', 'SpanRuler', 'Tagger', 'TextCategorizer', 'Tok2Vec', 'TrainablePipe', 'merge_entities', 'merge_noun_chunks', 'merge_subtokens']

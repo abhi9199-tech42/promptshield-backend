@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\spancat.py
+# hypothesis_version: 6.148.8
+
+[0.0, 0.5, 1.0, 'allow_overlap', 'attr', 'candidates', 'f', 'getter', 'has_annotation', 'i', 'labels', 'make_spancat', 'max_positive', 'model', 'nO', 'negative_weight', 'output_layer', 'sc', 'scores', 'spancat', 'spans', 'spans_', 'spans_key', 'threshold']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\initializers.py
+# hypothesis_version: 6.148.8
+
+[-0.1, 0.1, 1.0, 2.0, 3.0, 6.0, 'float32', 'glorot_normal_init', 'glorot_uniform_init', 'he_normal_init', 'he_normal_init.v1', 'he_uniform_init', 'he_uniform_init.v1', 'lecun_normal_init', 'lecun_normal_init.v1', 'lecun_uniform_init', 'normal_init', 'normal_init.v1', 'uniform_init', 'uniform_init.v1', 'zero_init', 'zero_init.v1']

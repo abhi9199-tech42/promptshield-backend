@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\lang\vi\__init__.py
+# hypothesis_version: 6.148.8
+
+['(\\s+|', ')', '->', '==>', '>>', 'Dr\\.', 'I_W', 'Mr\\.', 'Mrs\\.', 'Ms\\.', 'ThS\\.', 'Tp\\.', 'Vietnamese', 'VietnameseTokenizer', '[A-ZĐ]+\\.', '[^\\w\\s]', '\\.\\.\\.', '\\d+([\\.,_]\\d+)+', '\\w+', '\\w+://[^\\s]+', 'cfg', 'use_pyvi', 'vi', '|']

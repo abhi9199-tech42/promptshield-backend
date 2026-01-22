@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\schemas.py
+# hypothesis_version: 6.148.8
+
+[' -> ', '!', '!=', '*', '+', '<', '<=', '==', '>', '>=', '?', 'ArgModel', 'B', 'Default batch size', 'Document text', 'Dropout rate', 'Example', 'I', 'InitArgModel', 'ItemT', 'Language', 'Model author URL', 'Model author email', 'Model author name', 'Model description', 'Model license', 'Model name', 'Model version', 'O', 'Path to vectors', 'Random seed', 'The optimizer to use', 'The tokenizer to use', 'TokenPatternString', 'Vocab', '_', '__config__', 'allow', 'forbid', 'fuzzy', 'fuzzy1', 'fuzzy2', 'fuzzy3', 'fuzzy4', 'fuzzy5', 'fuzzy6', 'fuzzy7', 'fuzzy8', 'fuzzy9', 'get_examples', 'in', 'initialize', 'intersects', 'is_subset', 'is_superset', 'loc', 'msg', 'nlp', 'not_in', 'pattern', 'pretraining', 'regex', 'spacy', 'training']

@@ -1,0 +1,47 @@
+services:
+  backend:
+    build: 
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8003:8003"
+    volumes:
+      - ./promptshield.db:/app/promptshield.db
+    environment:
+      - DATABASE_URL=sqlite:////app/promptshield.db
+      - FRONTEND_URL=${APP_URL:-http://localhost:3000}
+      - ADMIN_SECRET=${ADMIN_SECRET}
+      - SECRET_KEY=${SECRET_KEY}
+      - MAIL_USERNAME=${MAIL_USERNAME}
+      - MAIL_PASSWORD=${MAIL_PASSWORD}
+      - MAIL_FROM=${MAIL_FROM}
+      - MAIL_PORT=${MAIL_PORT}
+      - MAIL_SERVER=${MAIL_SERVER}
+      - MERCHANT_UPI_ID=${MERCHANT_UPI_ID}
+      - MERCHANT_UPI_ID_ENCRYPTED=${MERCHANT_UPI_ID_ENCRYPTED}
+      - MERCHANT_NAME=${MERCHANT_NAME}
+    restart: always
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+      args:
+        - NEXT_PUBLIC_API_URL=
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=
+      - BACKEND_INTERNAL_URL=http://backend:8003
+    depends_on:
+      - backend
+    restart: always
+
+  tunnel:
+    image: cloudflare/cloudflared:latest
+    restart: unless-stopped
+    command: tunnel run promptshield
+    volumes:
+      - C:\Users\kriti\.cloudflared:/root/.cloudflared
+    depends_on:
+      - frontend

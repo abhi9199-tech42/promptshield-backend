@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\info.py
+# hypothesis_version: 6.148.8
+
+[', ', '-', '--exclude', '--markdown', '--silent', '--url', '-S', '-e', '-md', '-s', '-u', '/', 'Info about spaCy', 'Location', 'Pipelines', 'Platform', 'Python version', '_', 'accuracy', 'direct_url.json', 'download_url', 'info', 'labels', 'meta.json', 'performance', 'release_url', 'source', 'spaCy version', 'speed', 'url']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\markdown_it\rules_core\smartquotes.py
+# hypothesis_version: 6.148.8
+
+['"', "'", '[\'\\"]', 'hardbreak', 'inline', 'level', 'pos', 'single', 'softbreak', 'text', 'token', '’']

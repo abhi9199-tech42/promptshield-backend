@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\registrations.py
+# hypothesis_version: 6.148.8
+
+['spacy.CharEmbed.v1', 'spacy.EmptyKB.v1', 'spacy.EmptyKB.v2', 'spacy.KBFromFile.v1', 'spacy.SpanFinder.v1', 'spacy.Tagger.v2', 'spacy.TextCatBOW.v2', 'spacy.TextCatBOW.v3', 'spacy.TextCatCNN.v2', 'spacy.Tok2Vec.v2', 'spacy.Tokenizer.v1', 'spacy.lower_case.v1', 'spacy.ner_scorer.v1']

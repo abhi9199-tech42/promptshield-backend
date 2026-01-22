@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\shims\pytorch.py
+# hypothesis_version: 6.148.8
+
+['config', 'cpu', 'cuda', 'gpu', 'grad', 'grad_tensors', 'pytorch', 'startswith', 'state', 'torch.device']

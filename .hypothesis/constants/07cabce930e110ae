@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\srsly\cloudpickle\cloudpickle.py
+# hypothesis_version: 6.148.8
+
+['.', 'ClassType', 'DELETE_GLOBAL', 'LOAD_GLOBAL', 'PyPy', 'STORE_GLOBAL', '__args__', '__bases__', '__builtins__', '__dict__', '__main__', '__module__', '__name__', '__orig_bases__', '__origin__', '__package__', '__qualname__', '__result__', '__tuple_params__', '__type__', '__union_params__', '__values__', '_abc_impl', '_cell_set', 'annotations', 'closure_values', 'defaults', 'dict', 'doc', 'globals', 'kwdefaults', 'metaclass', 'module', 'name', 'qualname', 'tornado.gen', 'typing', 'typing_extensions']

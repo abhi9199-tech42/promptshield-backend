@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\wasabi\util.py
+# hypothesis_version: 6.148.8
+
+['\x1b[{}m{}\x1b[0m', ' (default: {})', '+', '-', '...', '1', '38;5;{}', '4', '48;5;{}', ';', 'ANSICON', 'ANSI_COLORS_DISABLED', '[!]', '[+]', '[i]', '[x]', 'ascii', 'black', 'blue', 'cyan', 'delete', 'encoding', 'equal', 'fail', 'good', 'green', 'grey', 'info', 'insert', 'pink', 'red', 'replace', 'utf-8', 'utf8', 'warn', 'white', 'win32', 'yellow', '{} {}', '{} {} {}', '{}{}: ', 'ℹ', '⚠', '✔', '✘']

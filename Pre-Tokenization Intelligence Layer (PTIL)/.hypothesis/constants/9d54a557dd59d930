@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\lang\ja\__init__.py
+# hypothesis_version: 6.148.8
+
+[0.5, '*', '-', ';', '@scorers', 'A', 'B', 'C', 'DetailedToken', 'Inflection', 'Japanese', 'JapaneseTokenizer', 'Reading', '[=|]', '_', 'cfg', 'direction', 'extend', 'has_case', 'has_letters', 'inf', 'ja', 'lemma', 'ltr', 'model', 'morph_micro_f', 'morph_per_feat', 'morphologizer', 'norm', 'overwrite', 'pos_acc', 'reading', 'scorer', 'split_mode', 'sub_tokens', 'surface', 'tag', 'token.morph', 'token.pos', '空白']

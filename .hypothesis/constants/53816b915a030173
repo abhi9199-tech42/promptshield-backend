@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\debug_diff.py
+# hypothesis_version: 6.148.8
+
+['--gpu', '--markdown', '--optimize', '--pretraining', '--pt', '-G', '-md', '-o', 'Path to config file', 'allow_extra_args', 'diff', 'diff-config', 'lang', 'nlp', 'pipeline']

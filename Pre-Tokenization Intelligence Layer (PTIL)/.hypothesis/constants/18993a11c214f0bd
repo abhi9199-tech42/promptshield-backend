@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\layers\tensorflowwrapper.py
+# hypothesis_version: 6.148.8
+
+['InFunc', 'InT', 'OutT', 'XType', 'YType', 'adam', 'convert_inputs', 'convert_outputs', 'loss', 'mse', 'optimizer', 'tensorflow']

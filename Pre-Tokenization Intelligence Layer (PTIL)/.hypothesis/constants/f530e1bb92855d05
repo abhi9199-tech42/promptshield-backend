@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\assemble.py
+# hypothesis_version: 6.148.8
+
+['-', '--code', '--verbose', '-V', '-VV', '-c', 'Initialized pipeline', 'Path to config file', 'Serializing to disk', 'allow_extra_args', 'assemble']

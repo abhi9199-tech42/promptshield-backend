@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\backends\__init__.py
+# hypothesis_version: 6.148.8
+
+['CupyOps', 'MPSOps', 'NumpyOps', 'Ops', 'ParamServer', '__local', 'apple', 'bigendian', 'context_ops', 'context_pools', 'cpu', 'cuda', 'get_current_ops', 'has_cupy', 'numpy', 'ops', 'pytorch', 'set_current_ops', 'tensorflow', 'use_ops']

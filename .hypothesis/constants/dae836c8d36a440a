@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\OneDrive\PromptShield\backend\llm.py
+# hypothesis_version: 6.148.8
+
+[0.1, 0.7, 60.0, 1024, '2023-06-01', 'ANTHROPIC_API_KEY', 'Authorization', 'Content-Type', 'OPENAI_API_KEY', 'act as', 'anthropic', 'anthropic-version', 'application/json', 'choices', 'claude', 'content', 'could you', 'gpt-4o-mini', 'i would like', 'kindly', 'max_tokens', 'message', 'messages', 'meta', 'model', 'openai', 'ops', 'please', 'role', 'roles', 'root', 'temperature', 'text', 'user', 'value', 'verbose', 'would you', 'x-api-key', 'you are a']

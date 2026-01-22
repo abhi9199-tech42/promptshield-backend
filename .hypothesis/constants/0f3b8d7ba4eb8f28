@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\training\loop.py
+# hypothesis_version: 6.148.8
+
+[0.0, 'Language', 'accumulate_gradient', 'batcher', 'before_to_disk', 'before_update', 'checkpoints', 'dev_corpus', 'dropout', 'epoch', 'eval_frequency', 'frozen_components', 'gpu_allocator', 'is_trainable', 'logger', 'losses', 'max_epochs', 'max_steps', 'model-best', 'model-last', 'optimizer', 'other_scores', 'output_path', 'patience', 'performance', 'score', 'score_weights', 'seconds', 'seed', 'step', 'train_corpus', 'training', 'words']

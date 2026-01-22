@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\pipeline\span_finder.py
+# hypothesis_version: 6.148.8
+
+[0.0, 0.5, 'allow_overlap', 'attr', 'expand', 'float32', 'getter', 'has_annotation', 'labeled', 'make_span_finder', 'max_length', 'min_length', 'model', 'span_finder', 'spans_', 'spans_key', 'threshold']

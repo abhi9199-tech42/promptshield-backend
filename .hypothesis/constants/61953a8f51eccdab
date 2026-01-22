@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\torch\autograd\forward_ad.py
+# hypothesis_version: 6.148.8
+
+['1', 'PYTORCH_JIT', 'UnpackedDualTensor', '_UnpackedDualTensor', 'dual_level', 'enter_dual_level', 'exit_dual_level', 'make_dual', 'primal', 'tangent', 'unpack_dual']

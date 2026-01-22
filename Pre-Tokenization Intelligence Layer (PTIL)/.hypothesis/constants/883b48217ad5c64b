@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\thinc\model.py
+# hypothesis_version: 6.148.8
+
+['%', '&', '*', '**', '+', '-', '/', '//', '<', '<<', '>>', '@', 'InT', 'Model', 'OutT', 'SelfT', '^', '_ModelT', '_attrs', '_dims', '_func', '_has_params', '_layers', '_params', '_refs', '_shims', 'attrs', 'bfs', 'change_attr_values', 'context_operators', 'deserialize_attr', 'dfs_post', 'dfs_pre', 'dims', 'dropout_rate', 'id', 'index', 'init', 'name', 'nodes', 'ops', 'params', 'rb', 'refs', 'serialize_attr', 'set_dropout_rate', 'shims', 'wb', 'wrap_model_recursive', '|']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\download.py
+# hypothesis_version: 6.148.8
+
+[200, '-', '--direct', '--no-deps', '--sdist', '-D', '-S', '-d', '-m', '/', 'allow_extra_args', 'download', 'install', 'pip', 'spacy', 'spacy-nightly', '{m}-{v}/{m}-{v}{s}']

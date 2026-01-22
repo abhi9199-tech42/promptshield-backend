@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\OneDrive\Pre-Tokenization Intelligence Layer (PTIL)\ptil\compact_serializer.py
+# hypothesis_version: 6.148.8
+
+[1.0, ';', '; ', '<', '>', 'A', 'CSC cannot be None', 'D', 'G', 'I', 'L', 'M', 'M1', 'M2', 'M3', 'M4', 'M5', 'M6', 'M7', 'O1', 'O2', 'O3', 'O4', 'O5', 'O6', 'O7', 'O8', 'O9', 'OA', 'OB', 'OC', 'OD', 'OE', 'OF', 'OG', 'OH', 'OI', 'OJ', 'P', 'R', 'R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'RA', 'RB', 'S', 'T', 'Y', 'a', 'an', 'b', 'been', 'book', 'boy', 'c', 'car', 'cat', 'f', 'finish', 'g', 'girl', 'h', 'have', 'house', 'k', 'l', 'library', 'm', 'man', 'mat', 'not', 'p', 'project', 'r', 'reading', 's', 'school', 'should', 't', 'task', 'that', 'the', 'this', 'today', 'tomorrow', 'w', 'will', 'woman', 'working', 'x', 'yesterday']

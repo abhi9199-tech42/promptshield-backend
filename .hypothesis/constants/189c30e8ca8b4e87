@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\wasabi\tables.py
+# hypothesis_version: 6.148.8
+
+['\n{}\n', '-', '<', '>', 'WASABI', '^', '__iter__', 'aligns', 'auto', 'bg_colors', 'c', 'env_prefix', 'fg_colors', 'l', 'r', 'spacing', 'widths', '{:%s%d}', '{}_LOG_FRIENDLY']

@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\spacy\cli\benchmark_speed.py
+# hypothesis_version: 6.148.8
+
+[0.025, 0.25, 0.5, 0.75, 0.975, 1.5, 3.0, 10000, '--batch-size', '--batches', '--code', '--gpu-id', '--no-shuffle', '--warmup', '-b', '-c', '-g', '-w', 'GPU ID or -1 for CPU', 'Model name or path', 'allow_extra_args', 'doc', 'speed']

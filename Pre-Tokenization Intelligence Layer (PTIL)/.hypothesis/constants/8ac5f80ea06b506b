@@ -1,0 +1,4 @@
+# file: C:\Users\kriti\AppData\Roaming\Python\Python313\site-packages\confection\__init__.py
+# hypothesis_version: 6.148.8
+
+['$', '$$', '$$\x01', "'", '*', '->', '.', ':', '@', 'ArgModel', 'Config', 'ConfigParser', 'DEFAULT', 'SimpleFrozenDict', 'SimpleFrozenList', '\\$$', '\\$([^{])', '\\$\\{[\\w\\.:]+\\}', '__FALLBACK__', '__SECTION__:', '__config__', 'allow', 'false', 'forbid', 'items', 'keys', 'loc', 'msg', 'null', 'r', 'registry', 'true', 'type', 'utf8', 'validate', 'validate ', 'w', '{']
