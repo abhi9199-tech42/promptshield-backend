@@ -12,8 +12,8 @@ python backend/fix_db.py
 # Run migrations
 echo "🔄 Running Database Migrations..."
 # Ensure we are in the directory containing alembic.ini or point to it
-# alembic.ini is in /app/alembic.ini
-cd /app
+# alembic.ini is in root
+# cd /app (Removed for Render Native compatibility)
 alembic upgrade head
 
 # Start server
